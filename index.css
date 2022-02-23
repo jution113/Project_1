@@ -8,3 +8,12 @@ body img {
     border-radius: 50%;
 }
 
+hr {
+    border-style: dotted;
+    width: 90%;
+    color: gray;
+}
+
+h1, h3 {
+    color:darkblue;
+}
